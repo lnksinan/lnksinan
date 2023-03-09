@@ -4,7 +4,7 @@
 
 <h1 align="center"> About Me!
   
-  <p><br>Hey I'm Sinan Balkanlı. My name is Sinan Balkanlı. I have been developing myself as a frontend developer for 2 year. I am currently studying Computer Programming at Atatürk University. 
+  <p><br>Hey I'm Sinan Balkanlı.I have been developing myself as a frontend developer for 2 year. I am currently studying Computer Programming at Atatürk University. 
 
 
 
